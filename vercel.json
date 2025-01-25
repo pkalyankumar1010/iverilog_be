@@ -1,4 +1,10 @@
 {
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "verilog_compiler/wsgi.py"
+    }
+  ],
   "builds": [
     {
       "src": "manage.py",
