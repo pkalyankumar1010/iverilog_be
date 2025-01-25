@@ -50,6 +50,7 @@ verilog_request_body = openapi.Schema(
 )
 @api_view(['POST'])
 def compile_verilog(request):
+    # print(request.body)
     if request.method == 'POST':
         body = json.loads(request.body)
         verilog_code = body.get('code', '')

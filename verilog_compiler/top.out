@@ -7,9 +7,9 @@
 :vpi_module "D:\All_Software_data\iverilog\lib\ivl\vhdl_textio.vpi";
 :vpi_module "D:\All_Software_data\iverilog\lib\ivl\v2005_math.vpi";
 :vpi_module "D:\All_Software_data\iverilog\lib\ivl\va_math.vpi";
-S_00000148450eb2d0 .scope module, "test" "test" 2 1;
+S_00000236ac3cb2d0 .scope module, "test" "test" 2 1;
  .timescale 0 0;
-    .scope S_00000148450eb2d0;
+    .scope S_00000236ac3cb2d0;
 T_0 ;
     %vpi_call 2 3 "$display", "Hello, Verilog" {0 0 0};
     %end;
