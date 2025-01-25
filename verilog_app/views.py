@@ -55,13 +55,14 @@ def compile_verilog(request):
         body = json.loads(request.body)
         verilog_code = body.get('code', '')
         # Save code to a temporary file
-        with open('top.v', 'w') as f:
+        file_path = '/tmp/top.v'
+        with open(file_path, 'w') as f:
             f.write(verilog_code)
 
         try:
             # Run iverilog to compile the code
             compile_process = subprocess.run(
-                ['iverilog', '-o', 'top.out', 'top.v'],
+                ['iverilog', '-o', 'top.out', file_path],
                 stdout=subprocess.PIPE,
                 stderr=subprocess.PIPE,
                 text=True
