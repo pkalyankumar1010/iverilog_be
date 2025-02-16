@@ -1,3 +1,4 @@
+<!--SCROLL_START:TIME_STAMP=0:00-->
 <p align="center">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
 </p>
@@ -216,7 +217,7 @@ Install iverilog_be using one of the following methods:
 ```sh
 git clone https://github.com/pkalyankumar1010/iverilog_be
 ```
-
+<!--SCROLL_END:TIME_STAMP=00:30-->
 2. Navigate to the project directory:
 <!--START:PLAYLIVECODE TIME=30s-->
 ```sh
@@ -263,7 +264,7 @@ Run the test suite using the following command:
 - [ ] **`Task 3`**: Implement feature three.
 
 ---
-
+<!--SCROLL_START:TIME_STAMP=00:35-->
 ##  Contributing
 
 - **💬 [Join the Discussions](https://github.com/pkalyankumar1010/iverilog_be/discussions)**: Share your insights, provide feedback, or ask questions.
@@ -306,7 +307,7 @@ Run the test suite using the following command:
 </details>
 
 ---
-
+<!--SCROLL_END:TIME_STAMP=01:00-->
 ##  License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
