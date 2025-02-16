@@ -214,13 +214,15 @@ Install iverilog_be using one of the following methods:
 
 1. Clone the iverilog_be repository:
 ```sh
-❯ git clone https://github.com/pkalyankumar1010/iverilog_be
+git clone https://github.com/pkalyankumar1010/iverilog_be
 ```
 
 2. Navigate to the project directory:
+<!--START:PLAYLIVECODE TIME=30s-->
 ```sh
-❯ cd iverilog_be
+cd iverilog_be
 ```
+<!--END:PLAYLIVECODE-->
 
 3. Install the project dependencies:
 
