@@ -228,7 +228,7 @@ cd iverilog_be
 
 
 **Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Pip-3776AB.svg?style={badge_style}&logo=pypi&logoColor=white" />](https://pypi.org/project/pip/)
-<!--START:PLAYLIVECODE TIME=30s-->
+<!--START:PLAYLIVECODE TIME=45s-->
 ```sh
 pip install -r requirements.txt
 ```
