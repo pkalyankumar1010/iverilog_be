@@ -247,13 +247,15 @@ Run iverilog_be using the following command:
 ```
 
 
+
 ###  Testing
 Run the test suite using the following command:
 **Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Pip-3776AB.svg?style={badge_style}&logo=pypi&logoColor=white" />](https://pypi.org/project/pip/)
-
+<!--START:INSERT PLAYLIVECODE FILEPATH='src/index.js' SEARCHSTRING='export default function Home() {' TIME=55s-->
 ```sh
 ❯ pytest
 ```
+<!--END:INSERT PLAYLIVECODE -->
 
 
 ---
