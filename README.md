@@ -255,7 +255,7 @@ Run the test suite using the following command:
 ```sh
 ❯ pytest
 ```
-<!--END:INSERT PLAYLIVECODE -->
+<!--END:INSERT PLAYLIVECODE-->
 
 
 ---
